@@ -4,8 +4,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import os
 
-# Initialize the OpenAI API
-openai.api_key = "sk--w1I2q8IU7qRryqygc1mj-yji7Gb-DAyKNoIPJASZfT3BlbkFJr1Li__qoys32kBGdqiEfhBmGFr7K8TVPVaAI86_BwA"
 
 # Store uploaded documents
 uploaded_documents = []
