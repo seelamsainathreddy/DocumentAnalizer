@@ -1,0 +1,11 @@
+Month,Product,Sales Forecast,Revenue Forecast,Cost Forecast,Profit Forecast
+January,Product A,500,50000,30000,20000
+January,Product B,300,45000,25000,20000
+February,Product A,550,55000,33000,22000
+February,Product B,320,48000,27000,21000
+March,Product A,600,60000,35000,25000
+March,Product B,350,50000,28000,22000
+April,Product A,650,65000,37000,28000
+April,Product B,370,53000,29000,24000
+May,Product A,700,70000,40000,30000
+May,Product B,400,56000,31000,25000
